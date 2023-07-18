@@ -1,2 +1,2 @@
 # Colonel-Sanders-RAT
-A crossplatform RAT written in python controllable via Telegram!
+A crossplatform (Windows & Linux) RAT written in python controllable via Telegram!
