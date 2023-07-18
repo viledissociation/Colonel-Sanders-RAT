@@ -1,0 +1,6 @@
+pillow
+pyTelegramBotAPI 
+pygame
+distro
+pynput
+pyperclip
