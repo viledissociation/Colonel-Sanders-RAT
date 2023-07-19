@@ -6,10 +6,14 @@ A 🔄Crossplatform (🪟Windows & 🐧Linux) 🐀RAT written in 🐍Python cont
 | Feature | Windows | Linux |
 |---------|---------|-------|
 | Reverse shell | ✅ | ✅ |
-| Enable on StartUp | ✅ | ✅ (DE must support .desktop)|
+| Enable on StartUp | ✅ | ✅¹ |
 | Grab device info | ✅ | ✅
-| Screenshot | ✅ | ✅ |
-| Take webcam photos | ✅ | ✅ |
+| Screenshot | ✅² | ✅ |
+| Take webcam photos | ✅² | ✅ |
 | Grab clipboard contents | ✅ | ✅ |
 | Self-Destruction | ✅ | ✅ |
+
+
+1 - Requires the DE to support autostarting .desktop files
+2 - Doesn't get autodeleted from C:\Windows\Temp unless the user gave themselves privillege to access the folder
 
