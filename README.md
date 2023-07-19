@@ -6,4 +6,10 @@ A 🔄Crossplatform (🪟Windows & 🐧Linux) 🐀RAT written in 🐍Python cont
 | Feature | Windows | Linux |
 |---------|---------|-------|
 | Reverse shell | ✅ | ✅ |
-| Enable on StartUp | ✅ | ✅ |
+| Enable on StartUp | ✅ | ✅ (DE must support .desktop)|
+| Grab device info | ✅ | ✅
+| Screenshot | ✅ | ✅ |
+| Take webcam photos | ✅ | ✅ |
+| Grab clipboard contents | ✅ | ✅ |
+| Self-Destruction | ✅ | ✅ |
+
