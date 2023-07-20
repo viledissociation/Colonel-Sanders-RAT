@@ -30,9 +30,16 @@ If you want MacOS support, contact me.
 # CONTACT
 
 Currently, this is privated and paid. If you want to purchase it then contact me.
+
 It will be open sourced after it starts getting a fair amount of detections.
 
+(I am most likely to respond on discord first)
+
+
 Discord: sliwka.uwu
+
 Session: 05acd1e200a61ebb08ccacc9467d14e492b65c1528784ae6d2c6be39dc5efe1e6d
+
 Telegram: https://t.me/walterwhite2137
+
 Matrix.org: @sliwka_:matrix.org
