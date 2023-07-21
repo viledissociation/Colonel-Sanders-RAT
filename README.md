@@ -15,6 +15,7 @@ If you want MacOS support, contact me.
 | Upload files | ✅ | ✅ |
 | Execute files | ✅ | ✅ |
 | Download files | ✅ | ✅ |
+| Record microphone | ✅ | ✅ |
 | Grab clipboard contents | ✅ | ✅ |
 | Grab browser history | ✅ | ✅ |
 | Crypto Clipper³ | ✅ | ✅ | 
