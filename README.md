@@ -13,6 +13,8 @@ If you want MacOS support, contact me.
 | Screenshot | ✅² | ✅ |
 | Take webcam photos | ✅² | ✅ |
 | Upload files | ✅ | ✅ |
+| Execute files | ✅ | ✅ |
+| Download files | ✅ | ✅ |
 | Grab clipboard contents | ✅ | ✅ |
 | Grab browser history | ✅ | ✅ |
 | Crypto Clipper³ | ✅ | ✅ | 
