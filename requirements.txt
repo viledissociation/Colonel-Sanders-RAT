@@ -4,3 +4,5 @@ pygame
 distro
 pynput
 pyperclip
+browser-history
+pyaudio
