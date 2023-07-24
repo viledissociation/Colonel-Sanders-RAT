@@ -10,39 +10,27 @@ If you want MacOS support, contact me.
 | Reverse shell | ✅ | ✅ |
 | Enable on StartUp | ✅ | ✅¹ |
 | Grab device info | ✅ | ✅
-| Screenshot | ✅² | ✅ |
-| Take webcam photos | ✅² | ✅ |
+| Screenshot | ✅ | ✅ |
+| Take webcam photos | ✅ | ✅ |
 | Upload files | ✅ | ✅ |
 | Execute files | ✅ | ✅ |
 | Download files | ✅ | ✅ |
 | Record microphone | ✅ | ✅ |
 | Grab clipboard contents | ✅ | ✅ |
 | Grab browser history | ✅ | ✅ |
-| Crypto Clipper³ | ✅ | ✅ | 
+| Grab passwords³ | Soon | ❌ |
+| Grab discord token | Soon | ❌ |
+| Crypto Clipper² | ✅ | ✅ | 
 | Self-Destruction | ✅ | ✅ |
 
 
 
 1 - Requires the DE to support autostarting .desktop files
 
-2 - Doesn't get autodeleted from C:\Windows\Temp unless the user gave themselves privillege to access the folder
+2 - Supports BTC, XMR, ETH, DASH, DOGE, TRX, SOL, LTC
 
-3 - Supports BTC, XMR, ETH, DASH, DOGE, TRX, SOL, LTC
+3 - Currently only chromium browsers
 
+# How do i use this?
 
-# CONTACT
-
-Currently, this is privated and paid. If you want to purchase it then contact me.
-
-It will be open sourced after it starts getting a fair amount of detections.
-
-(I am most likely to respond on discord first)
-
-
-Discord: sliwka.uwu
-
-Session: 05acd1e200a61ebb08ccacc9467d14e492b65c1528784ae6d2c6be39dc5efe1e6d
-
-Telegram: https://t.me/walterwhite2137
-
-Matrix.org: @sliwka_:matrix.org
+No tutorials. Figure it out. If you don't know what's going on then you probably shouldn't use it.
