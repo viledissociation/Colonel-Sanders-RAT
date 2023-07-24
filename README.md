@@ -20,6 +20,7 @@ If you want MacOS support, contact me.
 | Grab browser history | ✅ | ✅ |
 | Grab passwords³ | Soon | ❌ |
 | Grab discord token | Soon | ❌ |
+| Record microphone | ✅ | ✅ |
 | Crypto Clipper² | ✅ | ✅ | 
 | Self-Destruction | ✅ | ✅ |
 
