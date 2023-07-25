@@ -19,7 +19,8 @@ If you want MacOS support, contact me.
 | Grab clipboard contents | ✅ | ✅ |
 | Grab browser history | ✅ | ✅ |
 | Grab passwords³ | Soon | ❌ |
-| Grab discord token | ✅ | ✅ |
+| Grab discord token | Soon | ❌ |
+| Keylogger | Soon | Soon |
 | Record microphone | ✅ | ✅ |
 | Crypto Clipper² | ✅ | ✅ | 
 | Self-Destruction | ✅ | ✅ |
